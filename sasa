@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<meta charset = "UTF-8">
+<title>My Fist Page</title>
+</head>
+<body id="top">	
+<h1> Hello World</h1>
+<p> WELL DONE BUBINO </p>
+<p> This time we can make it.... Maybe!!!! <p/>	
+<p> <em> You are my</em> <strong>Super Bubina</strong></p>
+<nav>https://www.tesco.com/</nav>
+<a href="#top">Back to top</a>	
+</body>
+<footer>
+	<small>&copy; Style Totore</small>
+</footer>
+<a href="https://www.tesco.com/" target="-blank"> Tesco</a>
+<a href="about.html">About</a>
+<a href="mailto:ruudferr85@gmail.com?subject=Reaching%20Out&body=How%20are%20you">Email me</a>
+
+<ol>
+	<li>green</li>
+	<li value="8">blue</li>
+	<li>red</li>
+</ol>
+<ol reversed>
+	<li>green</li>
+	<li>blue</li>
+	<li>red</li>
+</ol>
+<ul>
+	<li>blue</li>
+	<li>yellow</li>
+	<li>red</li>
+</ul>
+
+<dl>
+	<dt>house</dt>
+	<dd>the house is big like my bubina</dd>
+</dl>
+
+<ol>
+<li>casa</li>
+<li>sole</li>
+<li>
+andiamo al mare
+<ul>
+<li>sabbia</li>
+<li>omrelli</li>
+</ul>
+</li>
+</ol>
+
+<nav class="navigation">
+  <ul>
+    <li><a href="#">Profile</a></li><!--
+    --><li><a href="#">Settings</a></li><!--
+    --><li><a href="#">Notifications</a></li><!--
+    --><li><a href="#">Logout</a></li>
+  </ul>
+</nav>
+<p><strong>IL CANE MIO BELLO </strong></p>
+<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/29841/dog.jpg" alt="A black, brown, and white dog wearing a kerchief"> 
